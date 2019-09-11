@@ -1,0 +1,72 @@
+html{
+    background:url("images/background.jpg") fixed, no-repeat;
+    background-size:100% 100%;
+    background-repeat: no-repeat;
+    
+
+
+}
+
+body{
+    background-color:rgba(255,255,255,0.8);
+    width:600px;
+    text-align: center;
+    margin:auto;
+    border: 1px solid purple;
+    border-radius: 20px;
+    font-family: 'Montserrat', sans-serif;
+   
+}
+
+.logo{
+    display:block;
+margin-left: auto;
+margin-right: auto;
+width:75%;
+
+}
+    
+div.welcome{
+    background:purple;
+    color:white;
+    padding:50px;
+}
+
+.line{
+    width: 300px;
+}
+
+
+.forgot{
+    font-family: georgia, sans-serif;
+    font-style:italic;
+    color:white;
+
+}
+
+a.forgot2{
+    text-decoration: none;
+  
+}
+
+p.forgot:hover{
+    
+text-decoration:underline;
+color:yellow;
+}
+
+a:hover{
+    color:yellow;
+}
+.login{
+    background-color:green;
+    color:white;
+    
+}   
+div.media{
+    padding:10px;
+}
+img.media{
+    width:50px;
+    margin:5px;
+}
